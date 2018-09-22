@@ -1,0 +1,7 @@
+id=actionsfix
+name=Xperia Actions Fix
+version=v1.0
+versionCode=1
+author=ZeroSimple
+description=With the update named 47.1.A.12.270 for XZ1/XZ1 Compact/XZP, we lost Xperia Actions. This is a module which can fix it.
+minMagisk=17000
